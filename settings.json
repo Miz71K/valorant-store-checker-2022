@@ -1,5 +1,5 @@
 {
   "notify_mode": "Specified",
-  "store_password": true,
+  "store_password": false,
   "refresh_token": true
 }
